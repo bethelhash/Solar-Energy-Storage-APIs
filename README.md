@@ -1,5 +1,3 @@
-# <p align="center"><img src="https://raw.githubusercontent.com/bethelhash/diesel-solar-api/refs/heads/main/engine_architecture_pipeline.png" width="100%" alt="Axiom Infrastructure Intelligence - Global Core Structural & Energy Engineering Platform"></p>
-
 <div align="center">
   <h1>Tinashe (Bethel) Nedi</h1>
   <p><strong>Principal Structural Energy Engineer &amp; Founder | Axiom Infrastructure Intelligence LLP</strong></p>
