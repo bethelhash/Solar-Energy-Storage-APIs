@@ -1,4 +1,3 @@
-```markdown
 # <p align="center"><img src="https://raw.githubusercontent.com/bethelhash/diesel-solar-api/refs/heads/main/engine_architecture_pipeline.png" width="100%" alt="Axiom Infrastructure Intelligence Enterprise Header Pipeline"></p>
 
 <div align="center">
@@ -56,8 +55,9 @@ graph TD
   style A fill:#7c3aed,stroke:#fff,stroke-width:2px,color:#fff
   style D fill:#0284c7,stroke:#fff,stroke-width:1px,color:#fff
   style F fill:#0f766e,stroke:#fff,stroke-width:2px,color:#fff
-
 ```
+
+---
 
 Instead of generalized regional generalizations, the core computation blocks run strict deterministic code sequences:
 
